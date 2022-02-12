@@ -10,4 +10,13 @@
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=audynalia&layout=compact&langs_count=8&theme=algolia"/>
     </a>
     </p>
-
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+TypeScript   7 hrs 11 mins   █████████████████▒░░░░░░░   69.25 % 
+JavaScript   1 hr 49 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.63 % 
+SCSS         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Markdown     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+```
+<!--END_SECTION:waka-->
