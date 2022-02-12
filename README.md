@@ -7,9 +7,8 @@
     <p align="left">
     <a href="https://github.com/audynalia">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=audynalia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img align="right" alt="GIF" src="https://github.com/audynalia/audynalia/blob/main/gif?raw=true" width="350" height="220" />
     </a>
     </p>
-    
-
-  <img align="right" alt="GIF" src="https://github.com/audynalia/audynalia/blob/main/gif?raw=true" width="400" height="220" />
+      
     
