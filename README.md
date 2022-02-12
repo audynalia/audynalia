@@ -3,9 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=audynalia&label=Profile%20views&color=0e75b6&style=flat" alt="audynalia" /> </p>
 
 - 👋 Hi, I’m @audynalia
-- 👀 I’m interested in Plant Biotechnology, Programming and Japan Language
-- 🌱 I’m currently learning Machine Learning and Japanese language
-- 💞️ I’m looking to collaborate on your project
+- 👀 I’m interested in Plant Biotechnology:seedling:, Programming:computer:, Photography:camera: and Japan Language:japan:
+- :book: I’m currently learning Machine Learning and Japanese language
 - 📫 You can reach me by my [twitter](https://twitter.com/39zelll) and [Linkedin](https://www.linkedin.com/in/audynalia-kogitans-1b1190217/)
 - 
     <p align="left">
