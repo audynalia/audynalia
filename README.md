@@ -17,6 +17,11 @@
     </a>
     </p>
       
+## :page_facing_up:Sertifikasi
+- Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/6RPN85Y3RZ2M)
+- Dicoding [Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/MRZMK7NQKPYQ)
+
+
 ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/audynalia-kogitans-1b1190217/"><img src="https://img.shields.io/badge/-Audynalia%20Kogitans-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
