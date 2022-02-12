@@ -10,6 +10,10 @@
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=audynalia&layout=compact&langs_count=8&theme=algolia"/>
     </a>
     </p>
+    
+
+  <img align="right" alt="GIF" src="https://github.com/audynalia/audynalia/blob/main/gif?raw=true" width="500" height="320" />
+    
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
