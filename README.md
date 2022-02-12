@@ -1,4 +1,7 @@
 ### HALLO, SALAM KENAL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=audynalia&label=Profile%20views&color=0e75b6&style=flat" alt="audynalia" /> </p>
+
 - 👋 Hi, I’m @audynalia
 - 👀 I’m interested in Plant Biotechnology, Programming and Japan Language
 - 🌱 I’m currently learning Machine Learning and Japanese language
