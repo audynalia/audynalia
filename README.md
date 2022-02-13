@@ -1,4 +1,4 @@
-### HALLO, SALAM KENAL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <img align="center" height="50" width="575" alt="" src="https://github.com/audynalia/audynalia/blob/main/welcome%20to%20my%20profile.gif" />
 
 ## :cherry_blossom:About me  <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=audynalia&style=flat-square"></h2>
 
@@ -9,7 +9,7 @@
 
 ## 📊 Stats
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=audynalia&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Audynalia's Github Stats">
+ - <img align="center" src="https://github-readme-stats.vercel.app/api?username=audynalia&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Audynalia's Github Stats">
     </a>
     </p>
    
