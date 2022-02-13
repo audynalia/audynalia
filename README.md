@@ -1,4 +1,4 @@
-### <img align="center" height="50" width="575" alt="" src="https://github.com/audynalia/audynalia/blob/main/welcome%20to%20my%20profile.gif" /> <img align="right" height="140" width="225" alt="" src="https://github.com/audynalia/audynalia/blob/main/gojo-satoru.gif"  />
+### <img align="center" height="50" width="575" alt="" src="https://github.com/audynalia/audynalia/blob/main/welcome%20to%20my%20profile.gif" /> <img align="right" height="120" width="205" alt="" src="https://github.com/audynalia/audynalia/blob/main/gojo-satoru.gif"  />
 <br>
 <br>
 <br>
