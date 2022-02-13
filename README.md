@@ -1,8 +1,6 @@
 ### HALLO, SALAM KENAL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=audynalia&label=Profile%20views&color=0e75b6&style=flat" alt="audynalia" /> </p>
-
-## :cherry_blossom:About me
+## :cherry_blossom:About me  <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=audynalia&style=flat-square"></h2>
 
 - 👋 Hi, I’m @audynalia
 - 👀 I’m interested in Plant Biotechnology:seedling:, Programming:computer:, Photography:camera: and Japan Language:japan:
