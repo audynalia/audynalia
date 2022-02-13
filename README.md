@@ -1,4 +1,7 @@
-### <img align="center" height="50" width="575" alt="" src="https://github.com/audynalia/audynalia/blob/main/welcome%20to%20my%20profile.gif" />
+### <img align="center" height="50" width="575" alt="" src="https://github.com/audynalia/audynalia/blob/main/welcome%20to%20my%20profile.gif" /> <img align="right" height="140" width="225" alt="" src="https://github.com/audynalia/audynalia/blob/main/gojo-satoru.gif"  />
+<br>
+<br>
+<br>
 
 ## :cherry_blossom:About me  <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=audynalia&style=flat-square"></h2>
 
