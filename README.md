@@ -8,7 +8,7 @@
 - 👋 Hi, I’m @audynalia
 - 👀 I’m interested in Plant Biotechnology:seedling:, Programming:computer:, Photography:camera: and Japan Language:japan:
 - :book: I’m currently learning Machine Learning and Japanese language
-- 📫 You can reach me by my [twitter](https://twitter.com/39zelll) and [Linkedin](https://www.linkedin.com/in/audynalia-kogitans-1b1190217/)
+- 📫 You can reach me by my [Linkedin](https://www.linkedin.com/in/audynalia-kogitans-1b1190217/)
 
 ## 📊 Stats
 
