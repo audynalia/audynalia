@@ -13,9 +13,6 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=audynalia&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=audynalia&langs_count=5&theme=tokyonight)]()
 
-    </a>
-    </p>
-   
       
 ## :page_facing_up:Sertifikasi
 - Tensorflow Developer Certificate (https://www.credential.net/ae607413-ba84-4f7a-bac1-a70f9d5d2d28#gs.6eaunv).
