@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="[https://readme-typing-svg.herokuapp.com?color=%23EB2754&size=40&center=true&width=600&height=69&lines=Henlo;Sussy+baka](https://media.tenor.com/BSM3ZfEkSH8AAAAC/cat-aesthetic.gif)" alt="Typing SVG">
-    <img src="./nishimiya-baka.gif" alt="Nishimiya Baka Sign Language"/>
+![me](cat header.gif)
 </p>
 
 ## :cherry_blossom:About me  <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=audynalia&style=flat-square"></h2>
