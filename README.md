@@ -18,9 +18,7 @@
    
       
 ## :page_facing_up:Sertifikasi
-- Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/6RPN85Y3RZ2M)
-- Dicoding [Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/MRZMK7NQKPYQ)
-- Dicoding [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/KEXL3DQD0PG2)
+- Tensorflow Developer Certificate (https://www.credential.net/ae607413-ba84-4f7a-bac1-a70f9d5d2d28#gs.6eaunv).
 
 
 ## 🤝🏻 &nbsp;Connect with Me
