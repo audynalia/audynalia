@@ -1,4 +1,4 @@
-
+<p align="center"> <img src="https://github.com/audynalia/audynalia/blob/main/cat%20header.gif" alt="audynalia" /> </p>
 ![me](https://github.com/audynalia/audynalia/blob/main/cat%20header.gif) width="278" height="498"
 
 ## :cherry_blossom:About me  <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=audynalia&style=flat-square"></h2>
