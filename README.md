@@ -1,5 +1,5 @@
 <p align="center">
-![til]([https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png](https://github.com/audynalia/audynalia/blob/main/cat%20header.gif))
+![til]((https://github.com/audynalia/audynalia/blob/main/cat%20header.gif))
 </p>
 
 ## :cherry_blossom:About me  <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=audynalia&style=flat-square"></h2>
