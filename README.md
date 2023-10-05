@@ -3,7 +3,7 @@
 ## :cherry_blossom:About me  <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=audynalia&style=flat-square"></h2>
 
 - 👋 Hi, I’m @audynalia
-- 👀 I’m interested in Plant Biotechnology:seedling:, Programming:computer:, Photography:camera: and Japan Language:japan:
+- 👀 I’m interested in Biotechnology:seedling:, Programming:computer: and Photography:camera:
 - :book: I’m currently learning Machine Learning and Japanese language
 - 📫 You can reach me with my [Linkedin](https://www.linkedin.com/in/audynalia-kogitans-1b1190217/)
 
