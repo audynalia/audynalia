@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @audynalia
 - 👀 I’m interested in Biotechnology:seedling:, Programming:computer: and Photography:camera:
-- :book: I’m currently learning Machine Learning and Japanese language
+- :book: I’m currently learning about ML
 - 📫 You can reach me with my [Linkedin](https://www.linkedin.com/in/audynalia-kogitans-1b1190217/)
 
 ## 📊 Stats
