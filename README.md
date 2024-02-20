@@ -3,7 +3,7 @@
 ## :cherry_blossom:About me  <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=audynalia&style=flat-square"></h2>
 
 - 👋 Hi, I’m @audynalia
-- 👀 I’m interested in Biotechnology🔬, Programming and Photography:camera:
+- 👀 I’m interested in Biotechnology🔬, Programming💻 and Photography📷
 - :book: I’m currently learning about ML
 - 📫 You can reach me with my [Linkedin](https://www.linkedin.com/in/audynalia-kogitans-1b1190217/)
 
