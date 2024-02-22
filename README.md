@@ -22,4 +22,6 @@
 <a href="https://www.linkedin.com/in/audynalia-kogitans-1b1190217/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:audynalia48@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/audyna_.k/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
+<a href="/audynalia/Portofolio_Audy.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
     
