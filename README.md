@@ -23,5 +23,5 @@
 <a href="mailto:audynalia48@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/audyna_.k/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-[embed]https://github.com/audynalia/audynalia/blob/main/Portofolio%20Audy.pdf[/embed]
+[embed] https://github.com/audynalia/audynalia/blob/main/Portofolio%20Audy.pdf [/embed]
     
