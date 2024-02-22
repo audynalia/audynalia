@@ -14,10 +14,10 @@
 
       
 ## :page_facing_up:Sertifikasi
-- Tensorflow Developer Certificate (https://www.credential.net/ae607413-ba84-4f7a-bac1-a70f9d5d2d28#gs.6eaunv).
+- [Tensorflow Developer Certificate](https://www.credential.net/ae607413-ba84-4f7a-bac1-a70f9d5d2d28#gs.6eaunv).
 
 ## 📃Portofolio
-- My Portofolio (https://github.com/audynalia/audynalia/blob/main/Portofolio%20Audy.pdf)
+- My [Portofolio](https://github.com/audynalia/audynalia/blob/main/Portofolio%20Audy.pdf)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
